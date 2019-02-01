@@ -10,10 +10,24 @@ h1{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
         
  }
+.btn{
+    background-color:green;
+  border: none;
+  color: white;
+  padding: 10px 27px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+ }
+ 
 h2{
     color: green;
     font-family: Arial, Helvetica, sans-serif;
 } 
+ 
 
  table  {
     font-family: arial, sans-serif;

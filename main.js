@@ -35,3 +35,6 @@ function delete_row(no)
  document.getElementById("row"+no+"").outerHTML="";
 }
 
+function myFunction() { 
+    document.getElementById("demo").innerHTML = "Thank you for voting";
+  }

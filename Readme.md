@@ -1,7 +1,7 @@
 **POLITICO**
 An app for voters to elect leaders of their choice and view the election results
 
-##UI LINK --> https://roychela.github.io/Politicalapp/
+##UI LINK --> https://roychela.github.io/Politicalapp/UI/index.html
 
 **Features**
 1. Users can sign up.  
